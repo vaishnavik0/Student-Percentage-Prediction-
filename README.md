@@ -14,3 +14,4 @@ After training and testing the model using regression function we finally predic
 Then by comparing the actual marks with the predicted ones the final result was:
 According to the regression model if a student studies for 9.25 hours a day he/she is likely to score 93.89 marks.
   
+![image](https://user-images.githubusercontent.com/75296347/180027074-cd4a77c0-9134-4d93-bb9c-babd88e7de4f.png)
