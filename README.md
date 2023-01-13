@@ -1,4 +1,5 @@
-# Task-1_Data-Science-and-Business-Analytics
+# Student Percentage Prediction Based On Number Of Study Hours
+
 
 Data Science and Business Analytics Task-1 (Predict the percentage of an student based on the no. of study hours) Using simple linear regression model
 
